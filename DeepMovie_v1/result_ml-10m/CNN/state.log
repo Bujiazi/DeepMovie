@@ -1,0 +1,27 @@
+lambda_u: 100.00, lambda_v: 10.00, dimension: 50, dropout_rate: 0.20, emb_dim: 50, max_len: 300, model_type: CNN
+num_kernel_per_ws: 100
+Elapsed: 20.7023s Converge: 805375748426593718674904872894880568130551897496850792448.000000 Train: 0.92387 Valid: 0.95759 Test: 0.95615
+Elapsed: 17.9808s Converge: 0.230850 Train: 0.80876 Valid: 0.86072 Test: 0.86013
+Elapsed: 16.2974s Converge: 0.156042 Train: 0.77346 Valid: 0.83150 Test: 0.83124
+Elapsed: 16.0969s Converge: 0.089241 Train: 0.76060 Valid: 0.82217 Test: 0.82195
+Elapsed: 16.2309s Converge: 0.056653 Train: 0.75411 Valid: 0.81760 Test: 0.81737
+Elapsed: 16.2044s Converge: 0.041463 Train: 0.74974 Valid: 0.81446 Test: 0.81418
+Elapsed: 16.0380s Converge: 0.033550 Train: 0.74610 Valid: 0.81166 Test: 0.81133
+Elapsed: 16.1872s Converge: 0.028488 Train: 0.74279 Valid: 0.80903 Test: 0.80872
+Elapsed: 16.1105s Converge: 0.024988 Train: 0.73948 Valid: 0.80632 Test: 0.80606
+Elapsed: 16.0708s Converge: 0.023059 Train: 0.73610 Valid: 0.80381 Test: 0.80357
+Elapsed: 16.0714s Converge: 0.021294 Train: 0.73297 Valid: 0.80173 Test: 0.80154
+Elapsed: 16.0376s Converge: 0.020792 Train: 0.72966 Valid: 0.79999 Test: 0.79990
+Elapsed: 15.9441s Converge: 0.018790 Train: 0.72713 Valid: 0.79930 Test: 0.79919
+Elapsed: 15.9554s Converge: 0.018426 Train: 0.72422 Valid: 0.79831 Test: 0.79820
+Elapsed: 15.9203s Converge: 0.016788 Train: 0.72172 Valid: 0.79794 Test: 0.79784
+Elapsed: 16.1858s Converge: 0.016197 Train: 0.71909 Valid: 0.79731 Test: 0.79719
+Elapsed: 16.5611s Converge: 0.014764 Train: 0.71666 Valid: 0.79700 Test: 0.79697
+Elapsed: 16.1161s Converge: 0.013027 Train: 0.71463 Valid: 0.79707 Test: 0.79696
+Elapsed: 16.1454s Converge: 0.012430 Train: 0.71258 Valid: 0.79716 Test: 0.79706
+Elapsed: 16.3347s Converge: 0.010879 Train: 0.71119 Valid: 0.79731 Test: 0.79725
+Elapsed: 16.2596s Converge: 0.009222 Train: 0.71018 Valid: 0.79761 Test: 0.79757
+Elapsed: 16.4158s Converge: 0.008678 Train: 0.70910 Valid: 0.79769 Test: 0.79766
+
+
+Best Model: Train: 0.71666 Valid: 0.79700 Test: 0.79697

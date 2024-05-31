@@ -1,0 +1,36 @@
+lambda_u: 100.00, lambda_v: 10.00, dimension: 64, dropout_rate: 0.20, emb_dim: 64, max_len: 300, model_type: LSTM
+n_filters: 100
+hidden_dim: 128
+n_layer: 4
+Elapsed: 5.1043s Converge: 223068819791977199097322666251766128099096843099729559552.000000 Train: 1.71426 Valid: 1.72902 Test: 1.72251
+Elapsed: 3.7913s Converge: 0.328433 Train: 1.20621 Valid: 1.22659 Test: 1.22005
+Elapsed: 3.7376s Converge: 0.334696 Train: 0.96648 Valid: 0.99499 Test: 0.98855
+Elapsed: 3.7973s Converge: 0.226848 Train: 0.91355 Valid: 0.94354 Test: 0.93700
+Elapsed: 3.7684s Converge: 0.115002 Train: 0.89684 Valid: 0.92665 Test: 0.92034
+Elapsed: 3.7723s Converge: 0.069729 Train: 0.88710 Valid: 0.91681 Test: 0.91064
+Elapsed: 3.8980s Converge: 0.052005 Train: 0.87975 Valid: 0.90954 Test: 0.90347
+Elapsed: 3.9993s Converge: 0.044001 Train: 0.87378 Valid: 0.90370 Test: 0.89781
+Elapsed: 4.1094s Converge: 0.038817 Train: 0.86917 Valid: 0.89951 Test: 0.89365
+Elapsed: 4.1588s Converge: 0.036432 Train: 0.86481 Valid: 0.89568 Test: 0.88963
+Elapsed: 3.9493s Converge: 0.034746 Train: 0.85980 Valid: 0.89142 Test: 0.88539
+Elapsed: 3.9923s Converge: 0.031210 Train: 0.85694 Valid: 0.88909 Test: 0.88323
+Elapsed: 3.9734s Converge: 0.028661 Train: 0.85402 Valid: 0.88713 Test: 0.88143
+Elapsed: 3.8979s Converge: 0.027148 Train: 0.85172 Valid: 0.88537 Test: 0.87995
+Elapsed: 3.7792s Converge: 0.023322 Train: 0.85014 Valid: 0.88438 Test: 0.87887
+Elapsed: 3.8126s Converge: 0.019604 Train: 0.84938 Valid: 0.88389 Test: 0.87817
+Elapsed: 3.8150s Converge: 0.017808 Train: 0.84778 Valid: 0.88240 Test: 0.87663
+Elapsed: 3.8213s Converge: 0.016298 Train: 0.84535 Valid: 0.88043 Test: 0.87419
+Elapsed: 3.8179s Converge: 0.016022 Train: 0.84334 Valid: 0.87846 Test: 0.87299
+Elapsed: 3.8328s Converge: 0.013885 Train: 0.84281 Valid: 0.87868 Test: 0.87256
+Elapsed: 3.8162s Converge: 0.011599 Train: 0.84349 Valid: 0.87992 Test: 0.87380
+Elapsed: 3.7966s Converge: 0.009885 Train: 0.84441 Valid: 0.87939 Test: 0.87355
+Elapsed: 3.7903s Converge: 0.013468 Train: 0.84160 Valid: 0.87654 Test: 0.87067
+Elapsed: 3.9705s Converge: 0.007770 Train: 0.84185 Valid: 0.87710 Test: 0.87083
+Elapsed: 4.0157s Converge: 0.014224 Train: 0.83982 Valid: 0.87607 Test: 0.86949
+Elapsed: 4.0034s Converge: 0.011488 Train: 0.83698 Valid: 0.87396 Test: 0.86756
+Elapsed: 3.9947s Converge: 0.009167 Train: 0.83641 Valid: 0.87419 Test: 0.86777
+Elapsed: 4.0952s Converge: 0.008908 Train: 0.83590 Valid: 0.87337 Test: 0.86748
+Elapsed: 3.9888s Converge: 0.008963 Train: 0.83496 Valid: 0.87339 Test: 0.86772
+
+
+Best Model: Train: 0.83590 Valid: 0.87337 Test: 0.86748
