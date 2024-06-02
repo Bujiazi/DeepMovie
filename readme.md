@@ -2,6 +2,8 @@
 
 Official implementation of the AI3602 course project DeepMovie developed by Group 6. It is a plug-and-play deep nueral network training pipeline turning most deep learning base modules into a movie recommender system.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="__assets__/deepmovie.png" style="width:60%">
+
 ### results(RMSE)
 
 | model | movielens-1m | movielens-10m |
