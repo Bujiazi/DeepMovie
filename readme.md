@@ -6,6 +6,7 @@ Official implementation of the AI3602 course project DeepMovie. It is a plug-and
 
 | model | movielens-1m | movielens-10m |
 |-------|--------------|---------------|
+| PMF(baseline)           |   0.8971   |   0.8311   |
 | CNN           |   0.8733   |   0.7970   |
 | CNN_KAN       |   0.8725   |   0.7941   |
 | LSTM          |   0.8675   |   0.7959   |
