@@ -4,7 +4,7 @@ Official implementation of the AI3602 course project DeepMovie. It is a plug-and
 
 Here is our project poster:
 
-<iframe src="poster.pdf" width="100%" height="600px">
+<iframe src="/poster.pdf" width="100%" height="600px">
 </iframe>
 
 ### results(RMSE)
