@@ -22,4 +22,4 @@ The brief process of DeepMovie can be summarized as the following graph:
 ## Contact Us
 **Jiazi Bu**: [bujiazi001@sjtu.edu.cn](mailto:bujiazi@sjtu.edu.cn)  
 **Zhiyuan Zhang**: [zhangzhiyuanzzy@sjtu.edu.cn](mailto:zhangzhiyuanzzy@sjtu.edu.cn)  
-**Xizhuo Zhang**: [zhangzhiyuanzzy@sjtu.edu.cn](mailto:zhangzhiyuanzzy@sjtu.edu.cn)
+**Xizhuo Zhang**: [nczhang99@sjtu.edu.cn](mailto:nczhang99@sjtu.edu.cn)
