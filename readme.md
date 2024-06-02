@@ -18,3 +18,8 @@ The brief process of DeepMovie can be summarized as the following graph:
 | LSTM          |   0.8675   |   0.7959   |
 | ResNet        |   0.8658   |   0.7931   |
 | Transformer   | __0.8601__ | __0.7883__ |
+
+## Contact Us
+**Jiazi Bu**: [bujiazi001@sjtu.edu.cn](mailto:bujiazi@sjtu.edu.cn)  
+**Zhiyuan Zhang**: [zhangzhiyuanzzy@sjtu.edu.cn](mailto:zhangzhiyuanzzy@sjtu.edu.cn)  
+**Xizhuo Zhang**: [zhangzhiyuanzzy@sjtu.edu.cn](mailto:zhangzhiyuanzzy@sjtu.edu.cn)
