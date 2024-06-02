@@ -1,3 +1,7 @@
+# DeepMovie
+
+Official implementation of the AI3602 course project DeepMovie. It is a plug-and-play deep nueral network training pipeline turning most deep learning base modules into a movie recommender system.
+
 ### results(RMSE)
 
 | model | movielens-1m | movielens-10m |
