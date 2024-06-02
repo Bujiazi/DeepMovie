@@ -4,6 +4,10 @@ Official implementation of the AI3602 course project **DeepMovie** developed by 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="__assets__/deepmovie.png" style="width:100%">
 
+The brief process of DeepMovie can be summarized as the following graph:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="__assets__/pipeline.png" style="width:100%">
+
 ### results(RMSE)
 
 | model | movielens-1m | movielens-10m |
